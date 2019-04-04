@@ -8,45 +8,46 @@ var sellText = `<span class="close_cross"><i class="fas fa-times"></i></span>
 <b>Sprzedajesz nieruchomość?</b><br>
   <img src="img/obrazy/kanapa.png" class="text_photo" alt="small house">
 Nie wiesz jaką cenę zaproponować?<br><br>
-Opłaciłeś już kilka portali ale skontaktowało się z Tobą tylko wielu agentów i kilku niezainteresowanych kupujących?<br><br>
+Opłaciłeś już kilka portali, ale skontaktowało się z Tobą tylko wielu agentów i kilku niezainteresowanych kupujących?<br><br>
 Nie wiesz jak wykonać profesjonalne zdjęcia?<br><br>
 Zastanawiasz się jak przygotować dom/ mieszkanie/ działkę do prezentacji?<br><br>
 Obawiasz się, że nieruchomość ma wady prawne?<br><br>
-Masz działkę rolna powyżej 0,3ha i nie wiesz kto może ją kupić?<br><br>
+Masz działkę rolną powyżej 0,3ha i nie wiesz kto może ją kupić?<br><br>
 Boisz się, że nie skompletujesz dokumentów potrzebnych do aktu notarialnego?<br><br>
 Mieszkasz daleko od nieruchomości, nie wiesz kto może Ci pomóc w sprzedaży?<br><br>
-Podpisałeś już umowy pośrednictwa sprzedaży ale agent się do Ciebie nie odzywa?<br><br>
+Podpisałeś już umowy pośrednictwa sprzedaży, ale agent się do Ciebie nie odzywa?<br><br>
 
 <hr><br>
 
 DOBRZE TRAFIŁEŚ.<br><br>
 Zapraszam do współpracy.<br><br>
 Rozwiążę Twoje problemy.<br><br>
-Przeprowadzę Cie komfortowo i bezpiecznie przez proces sprzedaży nieruchomości.<br><br>
+Przeprowadzę Cię komfortowo i bezpiecznie przez proces sprzedaży nieruchomości.<br><br>
 
 <img src="img/obrazy/key_hands.png" class="text_photo" alt="small house">
 
 <br><hr><br>
 
 <b>Co mogę zaoferować?</b><br><br>
-Nikt na Świecie nie sprzedaje tyle nieruchomości co RE/MAX a ja korzystam z doświadczenia oraz know-how tej firmy<br><br>
-Agenci RE/MAX 85% „swoich” nieruchomości sprzedają od 2 tygodni do 3 miesięcy. Postaram się aby Twoja oferta tak samo szybko znalazła nabywcę<br><br>
-przeprowadzę analizę rynku oraz ustalę cenę ofertową<br><br>
-wykonam profesjonalne materiały marketingowe oraz zadbam o odpowiednią reklamę<br><br>
-ustalę stan prawny nieruchomości, pomogę skompletować potrzebne dokumenty<br><br>
-będę Cie na bieżąco informować o rezultatach moich działań<br><br>
-przeprowadzę home staging oraz  profesjonalne prezentacje<br><br>
-będę dbała abyś uzyskał najlepszą cenę oraz negocjowała dla Ciebie<br><br>
+Nikt na Świecie nie sprzedaje więcej nieruchomości niż RE/MAX a ja korzystam z doświadczenia oraz know-how tej firmy<br><br>
+Agenci RE/MAX 85% „swoich” nieruchomości sprzedają od 2 tygodni do 3 miesięcy. Postaram się, aby Twoja oferta tak samo szybko znalazła nabywcę<br><br>
+Przeprowadzę analizę rynku oraz ustalę cenę ofertową<br><br>
+Wykonam profesjonalne materiały marketingowe oraz zadbam o odpowiednią reklamę<br><br>
+Ustalę stan prawny nieruchomości, pomogę skompletować potrzebne dokumenty<br><br>
+Będę Cie na bieżąco informować o rezultatach moich działań<br><br>
+Doradzę jak przygotować nieruchomość do sprzedaży<br><br>
+Przeprowadzę profesjonalne prezentacje<br><br>
+Będę dbała abyś uzyskał najlepszą cenę oraz negocjowała dla Ciebie<br><br>
 Przeprowadzę Cię bezpiecznie przez proces sprzedaży (spotkanie u notariusza, przekazanie pieniędzy)<br><br>
-pomogę w przekazaniu lokalu<br><br>
-polecę usługi dodatkowe (doradca podatkowy, firma przeprowadzkowa)<br>
+Pomogę w przekazaniu lokalu<br><br>
+Polecę usługi dodatkowe (doradca podatkowy, firma przeprowadzkowa)<br>
 
 <img src="img/obrazy/smallHouse1.png" class="text_photo" alt="small house">
 
 <hr><br>
 
-Jeśli uważasz że nie potrzebujesz mojej pomocy, gdyż masz tylko kilka pytań zapraszam na darmowe konsultacje.
-<button class="button">Darmowe konsultacje</button><br>
+Jeśli uważasz że nie potrzebujesz mojej pomocy, gdyż masz tylko kilka pytań zapraszam na darmowe konsultacje.<br><br>
+<button class="button sell">Darmowe konsultacje</button><br><br>
 <span class="close_text"><em>..zamknij..</em></span>
 `;
 
@@ -89,15 +90,15 @@ polecę usługi dodatkowe (doradca kredytowy, projektant wnętrz, mozliwości wy
 
 Skorzystaj z mojej pomocy zupełnie za darmo!<br><br>
 Wybierz nieruchomość z naszej bazy a obsłużę Twoją transakcję bez żadnych kosztów.<br><br>
-<button class="button free"><a href = "https://www.remax-polska.pl/" target="blind">Baza nieruchomości RE/MAX</a></button><br>
+<button class="button free"><a href = "https://www.remax-polska.pl/" target="blind">Baza nieruchomości RE/MAX</a></button><br><br>
 <span class="close_text"><em>..zamknij..</em></span>
 `;
 
 var rentText = `<span class="close_cross"><i class="fas fa-times"></i></span>
+<b>Chcesz wynająć nieruchomość</b><br><br>
 
 <img src="img/obrazy/pokoj.png" class="text_photo" alt="small house">
 
-<b>Chcesz wynająć nieruchomość</b><br><br>
 Nie wiesz jaka cenę ustalić?<br><br>
 Zastanawiasz się jak osiągnąć najwyższe zyski?<br><br>
 Boisz się niewypłacalnych najemców?<br><br>
@@ -147,7 +148,6 @@ W ramach konsultacji udzielam porad na tematy:<br><br>
 <i class="fas fa-check"></i>  określanie ceny rynkowej nieruchomości<br><br>
 <i class="fas fa-check"></i> podatki w obrocie nieruchomości<br><br>
 <i class="fas fa-check"></i> skuteczny marketing<br><br>
-<i class="fas fa-check"></i> techniki negocjacji<br><br>
 <i class="fas fa-check"></i> przygotowanie dokumentów potrzebnych do kupna/ sprzedaży<br><br>
 <i class="fas fa-check"></i> home staging<br><br>
 <i class="fas fa-check"></i> prezentacja nieruchomości<br><br>
@@ -159,7 +159,7 @@ W ramach konsultacji udzielam porad na tematy:<br><br>
 <img src="img/obrazy/smallHouse4.png" class="text_photo" alt="small house">
 
 Konsultacje odbywają się w środy w godzinach 9:00 – 12:00.<br><br>
-Na rozmowy obowiązują zapisy poprzez e-mail lub telefonicznie.
+Na rozmowy obowiązują zapisy poprzez e-mail lub telefonicznie.<br><br>
 <span class="close_text"><em>..zamknij..</em></span>
 `;
 

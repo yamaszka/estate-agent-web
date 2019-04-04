@@ -242,7 +242,8 @@ nav a:hover {
 .project_desc {
   width: 210px;
   height: 137px;
-  background-color: #a7a7a7;
+  /* background-color: #a7a7a7; */
+  background-image: url(../img/d4b242fc.png);
     color: white;
     margin-right: auto;
     margin-left: auto;
@@ -287,12 +288,14 @@ nav a:hover {
      position: fixed;
      top: 50px;
      left: 0px;
+     /* tak się uzyskuje center przy position fixed */
+     right: 0;
      padding: 20px;
      z-index: 10;
      background-color: white;
      border: 1px solid black;
      border-radius: 30px;
-     /* width: 90%; */
+     width: 80%;
      margin-left: auto;
      margin-right: auto;
      overflow-y: scroll;

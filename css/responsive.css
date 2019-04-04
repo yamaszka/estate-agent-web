@@ -39,14 +39,6 @@
 
 
 @media screen and (min-width: 840px) {
-  /* nav {
-    display: block;
-  } */
-
-  /* #menu {
-    display: none;
-  } */
-
   .content {
     /* margin-left: 60px; */
     width: 100%;
@@ -69,27 +61,74 @@
     margin-top: 0px;
   }
 
+  .services_item {
+    width: 380px;
+}
+
+  .text {
+    padding: 80px;
+    width: 60%;
+  }
+
   .contact_info {
     padding-top: 30px;
     width: 45%;
-    margin-left: 50px;
+    margin-left: 120px;
     /* text-align: left; */
-  }
-
-  .contact-form {
-    padding-top: 30px;
-    width: calc(55% - 50px);
-  }
-
-  .textarea {
-    width: 80%;
   }
 }/* min width 790px*/
 
-  @media screen and (min-width: 950px) {
+@media screen and (min-width: 1200px) {
+    header {
+      position: static;
+      /* width: 1200px;
+      margin-left: auto;
+      margin-right: auto; */
+    }
+
+    #maincontent {
+      width: 100%;
+      margin-top: -20px;
+    }
+
+    .logo {
+      padding-left: 180px
+    }
+
+    .content {
+      width: 1200px;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: 40px;
+    }
+
+    nav {
+      display: block;
+      padding-right: 180px;
+    }
+
     nav a {
-    letter-spacing: 6px;
-    width: 150px;
-    margin-left: 40px;
+    letter-spacing: 3px;
+    width: 130px;
+    margin-left: 20px;
+    margin-right: 0;
+    padding: 0;
 }
-    }/* min width 950px*/
+
+    #menu {
+      display: none;
+    }
+
+    #home {
+      min-height: 0;
+    }
+
+    .work_header {
+        background-image: url(../img/obrazy/key1.jpg);
+      }
+
+      .services_item {
+    width: 280px;
+    }
+
+  }/* min width 1200px*/
