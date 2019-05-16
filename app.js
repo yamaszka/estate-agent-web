@@ -12,7 +12,7 @@ Opłaciłeś już kilka portali, ale skontaktowało się z Tobą tylko wielu age
 Nie wiesz jak wykonać profesjonalne zdjęcia?<br><br>
 Zastanawiasz się jak przygotować dom/ mieszkanie/ działkę do prezentacji?<br><br>
 Obawiasz się, że nieruchomość ma wady prawne?<br><br>
-Masz działkę rolną powyżej 0,3ha i nie wiesz kto może ją kupić?<br><br>
+Masz działkę rolną powyżej 0,3 ha i nie wiesz kto może ją kupić?<br><br>
 Boisz się, że nie skompletujesz dokumentów potrzebnych do aktu notarialnego?<br><br>
 Mieszkasz daleko od nieruchomości, nie wiesz kto może Ci pomóc w sprzedaży?<br><br>
 Podpisałeś już umowy pośrednictwa sprzedaży, ale agent się do Ciebie nie odzywa?<br><br>
@@ -29,7 +29,7 @@ Przeprowadzę Cię komfortowo i bezpiecznie przez proces sprzedaży nieruchomoś
 <br><hr><br>
 
 <b>Co mogę zaoferować?</b><br><br>
-Nikt na Świecie nie sprzedaje więcej nieruchomości niż RE/MAX a ja korzystam z doświadczenia oraz know-how tej firmy<br><br>
+Nikt na Świecie nie sprzedaje więcej nieruchomości niż RE/MAX, a ja korzystam z doświadczenia oraz know-how tej firmy<br><br>
 Agenci RE/MAX 85% „swoich” nieruchomości sprzedają od 2 tygodni do 3 miesięcy. Postaram się, aby Twoja oferta tak samo szybko znalazła nabywcę<br><br>
 Przeprowadzę analizę rynku oraz ustalę cenę ofertową<br><br>
 Wykonam profesjonalne materiały marketingowe oraz zadbam o odpowiednią reklamę<br><br>
@@ -37,7 +37,7 @@ Ustalę stan prawny nieruchomości, pomogę skompletować potrzebne dokumenty<br
 Będę Cie na bieżąco informować o rezultatach moich działań<br><br>
 Doradzę jak przygotować nieruchomość do sprzedaży<br><br>
 Przeprowadzę profesjonalne prezentacje<br><br>
-Będę dbała abyś uzyskał najlepszą cenę oraz negocjowała dla Ciebie<br><br>
+Będę dbała, abyś uzyskał najlepszą cenę oraz negocjowała dla Ciebie<br><br>
 Przeprowadzę Cię bezpiecznie przez proces sprzedaży (spotkanie u notariusza, przekazanie pieniędzy)<br><br>
 Pomogę w przekazaniu lokalu<br><br>
 Polecę usługi dodatkowe (doradca podatkowy, firma przeprowadzkowa)<br>
@@ -46,7 +46,7 @@ Polecę usługi dodatkowe (doradca podatkowy, firma przeprowadzkowa)<br>
 
 <hr><br>
 
-Jeśli uważasz że nie potrzebujesz mojej pomocy, gdyż masz tylko kilka pytań zapraszam na darmowe konsultacje.<br><br>
+Jeśli uważasz, że nie potrzebujesz mojej pomocy, gdyż masz tylko kilka pytań, zapraszam na darmowe konsultacje.<br><br>
 <button class="button sell">Darmowe konsultacje</button><br><br>
 <span class="close_text"><em>..zamknij..</em></span>
 `;
@@ -60,7 +60,7 @@ Czujesz się zagubiony w ogromie ofert dostępnych w internecie?<br><br>
 Nie masz czasu wyszukiwać nieruchomości spełniających Twoje kryteria?<br><br>
 Boisz się, że zakupione dom/ działka / mieszkanie będą miały wadę prawną?<br><br>
 Nie wiesz co zrobić, żeby nie przepłacić?<br><br>
-Zbierasz informacje żeby niczego nie przeoczyć?<br><br>
+Zbierasz informacje, żeby niczego nie przeoczyć?<br><br>
 Chcesz kupić szybko?<br><br>
 
 <hr><br>
@@ -68,41 +68,41 @@ Chcesz kupić szybko?<br><br>
 DOBRZE TRAFIŁEŚ.<br><br>
 Zapraszam do współpracy.<br><br>
 Rozwiążę Twoje problemy.<br><br>
-Przeprowadzę Cie komfortowo i bezpiecznie przez proces kupna nieruchomości.<br><br>
+Przeprowadzę Cię komfortowo i bezpiecznie przez proces kupna nieruchomości<br><br>
 
 <img src="img/obrazy/key_hands.png" class="text_photo" alt="small house">
 
 <br><hr><br>
 
 <b>Co mogę zaoferować</b><br><br>
-w ramach dostępności na rynku znajdę nieruchomości spełniające Twoje kryteria<br><br>
-ustalę dogodny dla Ciebie termin ich prezentacji<br><br>
-sprawdzę stan prawny ofert<br><br>
-skompletuję potrzebne dokumenty<br><br>
-będę dbała abyś uzyskał najlepszą cenę oraz negocjowała dla Ciebie<br><br>
+W ramach dostępności na rynku znajdę nieruchomości spełniające Twoje kryteria<br><br>
+Ustalę dogodny dla Ciebie termin ich prezentacji<br><br>
+Sprawdzę stan prawny ofert<br><br>
+Skompletuję potrzebne dokumenty<br><br>
+Będę dbała, abyś uzyskał najlepszą cenę oraz negocjowała dla Ciebie<br><br>
 Przeprowadzę Cię bezpiecznie przez proces kupna (spotkanie u notariusza, przekazanie pieniędzy)<br><br>
-pomogę w odebraniu lokalu/ domu/ działki<br><br>
-polecę usługi dodatkowe (doradca kredytowy, projektant wnętrz, mozliwości wynajmu krótkoterminowego)<br><br>
+Pomogę w odebraniu lokalu/ domu/ działki<br><br>
+Polecę usługi dodatkowe (doradca kredytowy, projektant wnętrz, mozliwości wynajmu krótkoterminowego)<br><br>
 
 <img src="img/obrazy/smallHouse2.png" class="text_photo" alt="small house">
 
 <hr><br>
 
 Skorzystaj z mojej pomocy zupełnie za darmo!<br><br>
-Wybierz nieruchomość z naszej bazy a obsłużę Twoją transakcję bez żadnych kosztów.<br><br>
+Wybierz nieruchomość z naszej bazy, a obsłużę Twoją transakcję bez żadnych kosztów.<br><br>
 <button class="button free"><a href = "https://www.remax-polska.pl/" target="blind">Baza nieruchomości RE/MAX</a></button><br><br>
 <span class="close_text"><em>..zamknij..</em></span>
 `;
 
 var rentText = `<span class="close_cross"><i class="fas fa-times"></i></span>
-<b>Chcesz wynająć nieruchomość</b><br><br>
+<b>Chcesz wynająć nieruchomość?</b><br><br>
 
 <img src="img/obrazy/pokoj.png" class="text_photo" alt="small house">
 
 Nie wiesz jaka cenę ustalić?<br><br>
 Zastanawiasz się jak osiągnąć najwyższe zyski?<br><br>
 Boisz się niewypłacalnych najemców?<br><br>
-Nie znasz obowiązującego prawa ale wiesz, że najemca może pozostawać w lokalu nie płacąc?<br><br>
+Nie znasz obowiązującego prawa, ale wiesz, że najemca może pozostawać w lokalu nie płacąc?<br><br>
 Obawiasz się zniszczeń i skarg sąsiadów?<br><br>
 Zastanawiasz się nad najmem tymczasowym?<br><br>
 Kalkulujesz wzrost odstępnego po wykonaniu remontu?<br><br>
@@ -110,22 +110,22 @@ Kalkulujesz wzrost odstępnego po wykonaniu remontu?<br><br>
 <hr><br>
 
 DOBRZE TRAFIŁEŚ.<br><br>
-Zapraszam do współpracy.<br><br>
-Rozwiążę Twoje problemy.<br><br>
-Przeprowadzę Cie komfortowo i bezpiecznie przez proces wynajmu nieruchomości.<br><br>
+Zapraszam do współpracy<br><br>
+Rozwiążę Twoje problemy<br><br>
+Przeprowadzę Cię komfortowo i bezpiecznie przez proces wynajmu nieruchomości<br><br>
 
 <img src="img/obrazy/key_hands.png" class="text_photo" alt="small house">
 
 <br><hr><br>
 
 <b>Co mogę zaoferować</b><br><br>
-przeprowadzę analizę rynku oraz ustalę cenę najmu<br><br>
-wykonam profesjonalne materiały marketingowe oraz zadbam o odpowiednią reklamę<br><br>
-przeprowadzę home staging oraz przeprowadzę profesjonalne prezentacje<br><br>
-będę dbała abyś uzyskał najlepszą cenę oraz negocjowała dla Ciebie<br><br>
+Przeprowadzę analizę rynku oraz ustalę cenę najmu<br><br>
+Wykonam profesjonalne materiały marketingowe oraz zadbam o odpowiednią reklamę<br><br>
+Przeprowadzę home staging oraz przeprowadzę profesjonalne prezentacje<br><br>
+Będę dbała, abyś uzyskał najlepszą cenę oraz negocjowała dla Ciebie<br><br>
 Przeprowadzę Cię bezpiecznie przez proces przygotowania i podpisania umowy najmu<br><br>
-pomogę w przekazaniu lokalu<br><br>
-polecę usługi dodatkowe (firma remontowa)<br><br>
+Pomogę w przekazaniu lokalu<br><br>
+Polecę usługi dodatkowe (firma remontowa)<br><br>
 
 <img src="img/obrazy/smallHouse3.png" class="text_photo" alt="small house">
 
